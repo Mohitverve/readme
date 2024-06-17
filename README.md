@@ -1,1 +1,3 @@
-# readme
+I am the founder of VerveIN, which is an edtech solution dedicated to reshape the traditional learning methods with the help of Virtual reality. I draw my skills from my ongoing degree of Company secretary, I have also obtained front end and firebase skills for the sole development of VerveIN's prototype which we improve every day.
+
+I am of very curious nature which pushes me to learn new things everyday, even though I am from a commerce background, I have immersed myself deeply into tech and art. With all my skills and my stoic personality I will be building the new revolution in education over the next decade.
